@@ -1,6 +1,8 @@
-# chronograph
+# Chronograph
 
 📌 Descripción
+
+Cronometro simple.
 
 Proyecto público de frontend web, donde aplico lo aprendido en HTML, CSS y JAVASCRIPT. He utilizado tecnologías y herramientas clave como:
 
